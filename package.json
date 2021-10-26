@@ -1,0 +1,12 @@
+{
+  "name": "be-security-typescript-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.ts",
+    "build": "tsc --outDir dist"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
